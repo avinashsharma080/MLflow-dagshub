@@ -12,3 +12,4 @@ then
 or
 -pip install -r requirements.txt
 
+lastly python example.py
