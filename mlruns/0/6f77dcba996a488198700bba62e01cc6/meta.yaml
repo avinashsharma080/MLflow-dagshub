@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/mlopstest/mlruns/0/6f77dcba996a488198700bba62e01cc6/artifacts
+end_time: 1712470771264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f77dcba996a488198700bba62e01cc6
+run_name: nimble-shark-445
+run_uuid: 6f77dcba996a488198700bba62e01cc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712470764697
+status: 3
+tags: []
+user_id: ASUS
