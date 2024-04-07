@@ -8,8 +8,9 @@ open new terminal and paste the following command:
 
 then 
 
--conda install mlflow 
+- conda install mlflow 
 or
--pip install -r requirements.txt
+- pip install -r requirements.txt
 
-lastly python example.py
+lastly 
+- python example.py
