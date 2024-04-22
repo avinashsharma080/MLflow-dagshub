@@ -1,4 +1,4 @@
-for working in windows :
+For working in windows :
 
 open new terminal and paste the following command: 
 
